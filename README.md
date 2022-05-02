@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cs-Divyansh-jha
-- 👀 I’m interested in Web Development, Programming in C++.
+- 👀 I’m interested in Web Development, Programming in Python.
 - 🌱 I’m currently learning JS, React
 - 💞️ I’m looking to collaborate on CodeIgniter, PHP
 - 📫 How to reach me, well I also don't know...
